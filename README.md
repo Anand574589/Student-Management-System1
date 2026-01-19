@@ -1,14 +1,18 @@
-3. Make sure **“Commit directly to the main branch”** is selected.  
-4. Click **Commit changes** ✅
+# Student Management System
 
----
+A **Python console application** for managing student records with full **CRUD functionality**. Designed for efficient data management, it allows adding, updating, deleting, and searching student information with a simple, user-friendly interface.
 
-### **Step 3: Check your repository**
-- Go back to your **repo home page** (`Code` tab).  
-- You should now see your **new professional README** displayed automatically.  
+## Key Highlights
+- ✅ Add and manage student records efficiently
+- ✅ Search students by ID or name
+- ✅ Update and delete existing records
+- ✅ Console-based, lightweight, and easy to use
 
----
+## Technologies Used
+- Python
+- File Handling / SQLite (optional)
 
-If you want, I can also **make it look even more “recruiter-ready” with badges, table of contents, and nice formatting**, so your GitHub repo **stands out**.  
-
-Do you want me to do that next?
+## How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/Anand574589/Student-Management-System1.git
